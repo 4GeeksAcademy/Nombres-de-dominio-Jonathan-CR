@@ -1,5 +1,19 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background-color: rgb(190, 190, 190);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(238, 238, 238);
+    
+}
+
+h1{
+    color: rgb(0, 0, 0);
+   
+}
+ul{
+    background-color:rgb(190, 190, 190);
+    color: rgb(0, 0, 0); ;
+
+    
 }
